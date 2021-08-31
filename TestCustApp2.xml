@@ -1,0 +1,15 @@
+<app>
+ <id>gj8dl19d0</id>
+ <name>Custom App Test</name>
+ <provider>MK Testing</provider>
+ <description>A Test of the Mambu Custom App mechanism</description>
+ <permission>VIEW_ACCOUNTING_REPORTS</permission>
+ <permission>VIEW_INTELLIGENCE</permission>
+ <uninstallUrl>https://support.mambu.com</uninstallUrl>
+ <installUrl>https://support.mambu.com</installUrl>
+ <extensionpoint>
+ <location>REPORTING_VIEW</location>
+ <label>Custom App-1</label>
+ <url>https://markkershaw.sandbox.mambu.com/</url>  
+ </extensionpoint>
+</app>
