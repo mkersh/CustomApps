@@ -8,7 +8,7 @@
  <uninstallUrl>https://support.mambu.com</uninstallUrl>
  <installUrl>https://support.mambu.com</installUrl>
  <extensionpoint>
- <location>EXTENSION_MENU</location>
+ <location>CLIENT_VIEW</location>
  <label>Custom App-2</label>
  <url>https://markkershaw.sandbox.mambu.com/</url>  
  </extensionpoint>
