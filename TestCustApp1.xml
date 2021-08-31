@@ -10,6 +10,6 @@
  <extensionpoint>
  <location>REPORTING_VIEW</location>
  <label>Custom App-1</label>
- <url>https://google.com/</url> 
+ <url>https://google.com/</url>  
  </extensionpoint>
 </app>
