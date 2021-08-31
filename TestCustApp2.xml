@@ -1,6 +1,6 @@
 <app>
  <id>gj8dl19d0</id>
- <name>Custom App Test 2</name>
+ <name>Custom App Test - http://localhost:8280/</name>
  <provider>MK Testing</provider>
  <description>A Test of the Mambu Custom App mechanism</description>
  <permission>VIEW_ACCOUNTING_REPORTS</permission>
@@ -10,6 +10,6 @@
  <extensionpoint>
  <location>EXTENSION_MENU</location>
  <label>Custom App-2</label>
- <url>https://support.mambu.com</url>  
+ <url>http://localhost:8280/</url>  
  </extensionpoint>
 </app>
