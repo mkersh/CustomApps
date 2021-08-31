@@ -1,6 +1,6 @@
 <app>
  <id>gj8dl19d0</id>
- <name>Custom App Test</name>
+ <name>Custom App Test 2</name>
  <provider>MK Testing</provider>
  <description>A Test of the Mambu Custom App mechanism</description>
  <permission>VIEW_ACCOUNTING_REPORTS</permission>
