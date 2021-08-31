@@ -5,6 +5,8 @@
  <description>A Test of the Mambu Custom App mechanism</description>
  <permission>VIEW_ACCOUNTING_REPORTS</permission>
  <permission>VIEW_INTELLIGENCE</permission>
+ <uninstallUrl>https://google.com/</uninstallUrl>
+ <installUrl>https://google.com/</installUrl>
  <extensionpoint>
  <location>REPORTING_VIEW</location>
  <label>Custom App-1</label>
